@@ -47,6 +47,45 @@ The following phrases and their variants must be avoided in ALL generated articl
 | 在历史长河中 | （删除，直接写事件） |
 | 值得我们深思 | 这个选择最终决定了帝国的走向 |
 
+## Historical Texture and Emotional Depth
+
+History writing is not cold analysis. The article must carry a sense of the time and a restrained emotional weight — the reader should feel characters being pushed by forces they cannot control, not just read a detached report.
+
+### Core rule
+
+**Emotion must grow naturally from situations, details, and judgments. Never manufacture emotion through slogans or dramatic exhortation.**
+
+When a general faces certain defeat but chooses to fight anyway, the weight is in the facts: what he stood to lose, what he knew, what the battlefield looked like at dawn. The reader feels the gravity of the choice through the details, not through the author shouting "this was a tragic and heroic moment."
+
+### Portraying characters in the grip of larger forces
+
+- Show what the character knew at the time, not what history later judged.
+- Present the constraints: what options were actually available, what would have been lost either way.
+- Let the tension between personal will and structural pressure drive the narrative.
+
+Example — instead of:
+
+> 岳飞是一位伟大的爱国将领，他的悲剧令人扼腕叹息。
+
+Write:
+
+> 岳飞在前线节节推进的时候，临安的朝廷已经在计算议和的代价。他未必不知道身后发生了什么，但他选择了继续北上。这个选择，让他在战场上不可阻挡，也让他对朝廷的转向毫无防备。
+
+The emotional weight is in the gap between what the character believed and what was already unfolding behind him — no adjectives of praise, no wailing at fate.
+
+### Language calibre
+
+- **Use historical texture words**: concrete objects, official titles, place names, seasonal markers, time-of-day details — "长安城北的玄武门" / "六月四日清晨" / "泛舟海池" rather than "皇宫附近" / "一天早上" / "在花园里".
+- **Let verbs carry the weight**: "他选择了继续北上" / "朝廷已经无法调兵" / "藩镇开始观望" — action and inaction, decision and drift, are the carriers of meaning.
+- **Restraint over exclamation**: The heavier the historical moment, the flatter the prose should land. The reader does the feeling; the writer provides the facts and the judgment.
+
+### What to avoid
+
+- "英雄式的" / "悲壮的" / "令人动容" — labeling emotion instead of evoking it
+- "历史不会忘记" / "人民永远铭记" — grand declarations that do no emotional work
+- "在危难时刻挺身而出" — stock character framing that flattens real people into templates
+- Closing sentences that tell the reader what to feel rather than what to think
+
 ## Sample Full Article Output
 
 The following illustrates the target style — scene-driven opening, tight background, turning-point narrative, specific impact, and a judgment closing.
